@@ -27,15 +27,16 @@ This project is FPV drone focused but can it be easly adapted to other purposes.
 
 # Roadmap
 
-| Feature                | Status       |
-|------------------------|--------------|
-| ASCII Touch UI         | Functional   |
-| Test Wrappers          | Functional   |
-| 5.8G Video Wrapper     | Functional   |
-| Case Redesign          | Inprogress   |
-| Setup Script           | Inprogress   |
-| UI Imrpovement         | Inprogress   |
-| Integrate ELRS Module  | Inprogress   |
+| Feature                              | Status       |
+|--------------------------------------|--------------|
+| ASCII Touch UI                       | Functional   |
+| Test Wrappers                        | Functional   |
+| 5.8G Video Wrapper                   | Functional   |
+| Case Redesign                        | Inprogress   |
+| Setup Script                         | Inprogress   |
+| UI Imrpovement                       | Inprogress   |
+| Integrate Real Time Done Controller  | Inprogress   |
+| Integrate ELRS Module                | Inprogress   |
 
 
 
