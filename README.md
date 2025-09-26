@@ -9,7 +9,7 @@ This project is FPV drone focused but can it be easly adapted to other purposes.
   1. Install Pi OS Lite on the CM4
   2. Edit / replace the contents of config.txt (nano /boot/firmware/config.txt)
   3. Install requirements and dependencies (mpv, uxplay, ffplay)
-  4. Run touch_ui.py
+  4. Run touch_ui.py with sudo
 
 # Hardware Requirements
   1. [Raspberry Pi Compute Module 4](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000)
