@@ -5,6 +5,12 @@
 # Description
 This project is FPV drone focused but can it be easly adapted to other purposes. The Python scripts create a functional touch ui for Raspberry Pi OS Lite. Touch ui wrappers enable apps like mpv and uxplay to start and stop with touch inputs.
 
+# Getting Started
+  1. Install Pi OS Lite on the CM4
+  2. Edit / replace the contents of config.txt (nano /boot/firmware/config.txt)
+  3. Install requirements and dependencies (mpv, uxplay, ffplay)
+  4. Run touch_ui.py
+
 # Hardware Requirements
   1. [Raspberry Pi Compute Module 4](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000)
   2. [Waveshare - Nano Base Board (B) For Raspberry Pi Compute Module 4](https://www.waveshare.com/cm4-nano-b.htm)
@@ -27,6 +33,7 @@ This project is FPV drone focused but can it be easly adapted to other purposes.
 | Test Wrappers          | Functional   |
 | 5.8G Video Wrapper     | Functional   |
 | Case Redesign          | Inprogress   |
+| Setup Script           | Inprogress   |
 | UI Imrpovement         | Inprogress   |
 | Integrate ELRS Module  | Inprogress   |
 
