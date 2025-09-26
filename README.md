@@ -1,3 +1,6 @@
+![img](./images/Project-Image2.png
+
+
 # Description
 This project is FPV drone focused but can it be easly adapted to other purposes. The Python scripts create a functional touch ui for Raspberry Pi OS Lite. Touch ui wrappers enable apps like mpv and uxplay to start and stop with touch inputs.
 
