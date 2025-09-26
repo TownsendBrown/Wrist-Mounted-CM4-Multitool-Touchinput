@@ -1,4 +1,4 @@
-# Wrist-Mounted-CM4-Multitool-Touchinput
+# Wrist Mounted CM4 Multitool Touchinput
 ![img](./images/Project-Image2.png)
 
 
